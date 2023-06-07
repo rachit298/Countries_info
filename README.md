@@ -1,6 +1,8 @@
 # Countries_info
 Created a webapp using PHP and mysql which shows details about country.
 
+Deployed on Infinity Free. Link to Webapp -> rachit.infinityfreeapp.com
+
 Functionalities :- 
 
 1. Can show countries based on name input.
