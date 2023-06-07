@@ -1,7 +1,7 @@
 # Countries_info
 Created a webapp using PHP and mysql which shows details about country.
 
-Deployed on Infinity Free. Link to Webapp -> rachit.infinityfreeapp.com
+Deployed on Infinity Free. Link to Webapp -> http://rachit.infinityfreeapp.com/
 
 Functionalities :- 
 
